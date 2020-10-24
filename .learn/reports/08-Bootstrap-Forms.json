@@ -1,0 +1,69 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 14,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should not change or delete the existing elements in the head tag",
+      "status": "passed"
+    },
+    {
+      "title": "The styles.css file should be empty",
+      "status": "passed"
+    },
+    {
+      "title": "Do not use any inline styles, just use the bootstrap classes for styling",
+      "status": "passed"
+    },
+    {
+      "title": "You should use only 1 main container",
+      "status": "passed"
+    },
+    {
+      "title": "You should have a row inside the main container",
+      "status": "passed"
+    },
+    {
+      "title": "The row should contain 1 centered column with 6 slots, gray background and rounded corners ",
+      "status": "passed"
+    },
+    {
+      "title": "The first element should be an H2 tag with the same text as the example",
+      "status": "passed"
+    },
+    {
+      "title": "You should wrap the all the elements inside a FORM tag",
+      "status": "passed"
+    },
+    {
+      "title": "The FORM tag should contain the 4 elements in the example",
+      "status": "passed"
+    },
+    {
+      "title": "The email input should be like the example",
+      "status": "passed"
+    },
+    {
+      "title": "The password input should be like the example",
+      "status": "passed"
+    },
+    {
+      "title": "The DIV should contain the correct classes",
+      "status": "passed"
+    },
+    {
+      "title": "The Label should be like the design",
+      "status": "passed"
+    },
+    {
+      "title": "The BUTTON should be 100% width and light blue",
+      "status": "passed"
+    }
+  ]
+}

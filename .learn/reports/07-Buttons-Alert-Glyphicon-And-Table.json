@@ -1,0 +1,61 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 12,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should not change or delete the existing elements in the head tag",
+      "status": "passed"
+    },
+    {
+      "title": "The styles.css file should be empty",
+      "status": "passed"
+    },
+    {
+      "title": "Do not use any inline styles, just use the bootstrap classes for styling",
+      "status": "passed"
+    },
+    {
+      "title": "You should use a main container fluid",
+      "status": "passed"
+    },
+    {
+      "title": "You should have a row inside the main container",
+      "status": "passed"
+    },
+    {
+      "title": "The row should contain 2 columns with the same width ",
+      "status": "passed"
+    },
+    {
+      "title": "The first element should be an H5 tag ",
+      "status": "passed"
+    },
+    {
+      "title": "The second element should be a paragraph",
+      "status": "passed"
+    },
+    {
+      "title": "The third elements should be 2 buttons, following the bootstrap documentation link above  ",
+      "status": "passed"
+    },
+    {
+      "title": "The first element should be a DIV alert ",
+      "status": "passed"
+    },
+    {
+      "title": "The second element should be TABLE with striped rows",
+      "status": "passed"
+    },
+    {
+      "title": "The TABLE should contain 3 Columns and 3 Rows ",
+      "status": "passed"
+    }
+  ]
+}
